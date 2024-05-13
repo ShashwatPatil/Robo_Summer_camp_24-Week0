@@ -89,7 +89,6 @@ You will see build/ and devel/ are filled with new files built from your files f
 
 ## Installation Confirmation- The most awaited step
 
-![Final Step](ROS.png)
 
 ```bash
 user@master: ~/$ roscore
