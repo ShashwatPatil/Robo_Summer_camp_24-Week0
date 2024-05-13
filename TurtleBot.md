@@ -17,6 +17,7 @@ Open a new terminal and then run this cmd to launch turtlesim
 $ rosrun turtlesim turtlesim_node
 ```
 You should see a image like this
+
 ![Turtlesim](IMGS/img1.png)
 
 "rosrun" command is used to run a ros package.
