@@ -61,17 +61,8 @@ If you followed along till here, you will mostly have a file structure as follow
            
 **Moreover, try to use catkin build instead of catkin_make as it is standard,
 more robust and supports multiple package type to be built together ( orocos, non-ros packages).**
-             
- For this,
- 
- ```bash
- 
-$ rm -r build/*
-$ rm -r devel/*
-```  
-which basically deletes the build and devel folders  
 
-Then Install catkin tools For Ubuntu
+For installing catkin tools on Ubuntu
 
 ```bash
 $ sudo apt-get update
