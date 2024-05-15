@@ -29,3 +29,4 @@ $ rosrun turtlesim turtle_teleop_key
 
 If everything works fine you should be able to move your turtle
 
+See you week1.
